@@ -162,5 +162,6 @@ flutter run
 
 ## 👨‍💻 Author
 
-Your Name  
+Vamsi Kosuri
+
 GitHub: https://github.com/VamsiK8
