@@ -41,7 +41,7 @@ https://fakestoreapi.com/products
 ## 🏗 Architecture
 
 This project follows a **feature-based clean architecture** and proper separation of concerns.
-
+```plaintext
 lib/
  ├── main.dart
  │
@@ -78,7 +78,7 @@ lib/
  │         │     │
  │         │     ├── screens/
  │         │     │     └── cart_screen.dart
- 
+ ```
 
 ### 🔹 State Management
 - flutter_bloc
@@ -165,3 +165,4 @@ flutter run
 Vamsi Kosuri
 
 GitHub: https://github.com/VamsiK8
+
